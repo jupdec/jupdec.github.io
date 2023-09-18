@@ -239,10 +239,11 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
-  width: 90%;
+  width: 100%;
   height: 100vh;
-  background: url("../img/jupdec.png") top center;
+  background: url("../img/mk2.png") top center;
   background-size: cover;
+  margin: 0 0 0 0;
 }
 
 
@@ -264,7 +265,7 @@ h6 {
 }
 
 #hero h1 {
-  margin: 0 0 10px 0;
+  margin: 0 0 0 0;
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
